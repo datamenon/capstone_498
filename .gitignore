@@ -6,3 +6,4 @@ image_caption/Data/Model/results_*
 **/.ipynb_checkpoints/
 **/*.png
 **/*.hdf5
+**/*.JPG
